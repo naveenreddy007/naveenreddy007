@@ -1,26 +1,65 @@
-👋 Hi, I'm R. Naveen Kumar Reddy
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=100&lines=Cloud+Architect;DevOps+Engineer;MLOps+Specialist;Infrastructure+Automation" alt="Typing SVG" /> </div>
-🚀 About Me
-Results-driven AWS Solution Architect with 4 years of experience in designing and implementing scalable, secure, and cost-efficient cloud solutions. Proficient in AWS services, DevOps practices, and full-stack development, aiming to leverage expertise to deliver innovative technology solutions that enhance operational efficiency and drive business growth.
+# Hi, I'm R. Naveen Kumar Reddy
 
-🔭 I'm currently working on Multi-Cloud Infrastructure and MLOps Pipelines
-🌱 I'm currently learning Kubernetes Operators and GitOps workflows
-💬 Ask me about AWS, Terraform, Kubernetes, CI/CD, and Cloud Architecture
-📫 How to reach me: naveenrakkasi07@gmail.com
-📄 Download my Resume
-🛠️ Tech Stack
 <div align="center">
-AWSAzureGoogle CloudTerraformKubernetesDockerGitHub ActionsJenkinsAnsiblePrometheusGrafanaPythonShell Script
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=90&lines=Product+Engineer;Backend+%2B+Platform+Builder;FastAPI+%2B+Next.js+%2B+PostgreSQL;Build%2C+Deploy%2C+Optimize" alt="Typing SVG" />
 </div>
-🏆 Key Projects
-<a href="https://github.com/naveenreddy/cloud-architecture"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naveenreddy&repo=cloud-architecture&theme=tokyonight" /> </a> <a href="https://github.com/naveenreddy/mlops-pipeline"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naveenreddy&repo=mlops-pipeline&theme=tokyonight" /> </a> <a href="https://github.com/naveenreddy/cicd-automation"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naveenreddy&repo=cicd-automation&theme=tokyonight" /> </a> <a href="https://github.com/naveenreddy/monitoring-stack"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naveenreddy&repo=monitoring-stack&theme=tokyonight" /> </a>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naveenreddy&show_icons=true&theme=tokyonight" alt="Naveen's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenreddy&theme=tokyonight" alt="Naveen's GitHub streak" /> </div>
-📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-Terraform    8 hrs 42 mins   ███████████░░░░░░░░   45.23% 
-YAML         4 hrs 32 mins   ██████░░░░░░░░░░░░░   23.58% 
-Python       2 hrs 15 mins   ███░░░░░░░░░░░░░░░░   11.72% 
-Bash         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░   08.95% 
-Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░   06.28%
+
+## About Me
+
+I build production systems from zero.
+
+My strength is first-principles product engineering: I break messy workflows down to root problems, design the right system and data model, then ship working software end-to-end.
+
+I work across:
+- backend APIs and business logic
+- frontend product flows
+- database and relationship modeling
+- deployment and production fixes
+- storage, media, and performance optimization
+
+I am especially strong in early-stage product work where one engineer needs to own a wide surface area and make good decisions under ambiguity.
+
+## What I Work With
+
+- `Python`, `FastAPI`
+- `Next.js`, `React`
+- `PostgreSQL`
+- `REST APIs`
+- `Razorpay` integrations
+- `Docker`
+- `AWS` basics
+- `Linux`
+- `Git`, `CI/CD` basics
+
+## What I Build
+
+### Movie Madders
+A large movie platform with domain modeling for dubbed titles, remakes, linked entities, and production-scale content workflows.
+
+### Butta Convention
+A convention operations platform built to digitize real operational workflows.
+
+### EV Platform
+A product with payment and operational workflow handling for EV-related use cases.
+
+### Bilvalabs
+A lab for building and testing product systems, workflows, and platform ideas.
+
+## Selected Links
+
+- Bilvalabs: `https://bilvalabs.in`
+- Movie Madders: `https://moviemadders.com`
+- Butta Convention: `https://buttaconvention.bilvalabs.in`
+- Contact: `naveenrakkasi07@gmail.com`
+
+## Note
+
+Most of my serious work is product or client work, so my public GitHub does not represent everything I have shipped.
+
+## Open To
+
+- `Founding Engineer`
+- `Product Engineer`
+- `Backend Engineer`
+- `Full-Stack Engineer`
+- `Platform-leaning Product Roles`
